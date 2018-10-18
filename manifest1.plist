@@ -11,33 +11,34 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://118.25.111.126:73/BubbleShooterLegendHD_1.21.4_Beta1.ipa</string>
+					<string>http://132.232.209.82:73/BubbleShooterGeniesHD_1.11.1_Beta1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://118.25.111.126:73/cake_57x57.png</string>
+					<string>http://132.232.209.82:73/BubbleShooterGenies_57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://118.25.111.126:73/cake_512x512.png</string>
+					<string>http://132.232.209.82:73/BubbleShooterGenies_512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.linkdesks.ibubblehd</string>
+				<string>com.linkdesks.bubbleshooterhd</string>
 				<key>bundle-version</key>
-				<string>1.21.4</string>
+				<string>1.11.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BubbleShooterLegendHD</string>
+				<string>BubbleShooterGeniesHD</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
+
