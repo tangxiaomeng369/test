@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.linkdesks.ibubble</string>
+				<string>com.linkdesks.bubbleshooter</string>
 				<key>bundle-version</key>
-				<string>1.21.4</string>
+				<string>1.11.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BubbleShooterLegend</string>
+				<string>BubbleShooterGenies</string>
 			</dict>
 		</dict>
 	</array>
